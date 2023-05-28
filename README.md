@@ -2,6 +2,10 @@
 
 This is a repository for ChatGPT Prompt Engineering's studies. 
 
+# Guidelines
+
+---
+
 <img width="1086" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/f3da5f3e-5399-4d30-9093-4cbee46cd3a2">
 
 <img width="1087" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/396586f5-2657-430e-a1cc-329e267bf20a">
