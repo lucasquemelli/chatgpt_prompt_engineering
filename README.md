@@ -41,3 +41,5 @@ This is a repository for ChatGPT Prompt Engineering's studies.
 <img width="1065" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/ae54a404-bd61-4eba-9266-27fa9388105d">
 
 <img width="1074" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/492510e5-3187-4ad3-97de-cfaf00aaf6bf">
+
+<img width="1079" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/f408145e-2e0d-4990-bf73-72ef05ae142b">
