@@ -21,3 +21,19 @@ This is a repository for ChatGPT Prompt Engineering's studies.
 <img width="1069" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/46b582a3-548f-450c-9e5d-86b72c9865a0">
 
 <img width="1079" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/81adecd7-24c3-44e4-891f-d283d7f2f293">
+
+<img width="1077" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/2e948d09-1769-4d19-aa3b-6cb31839782b">
+
+<img width="1071" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/937947dd-7f48-45af-a6dd-4a0898fd992e">
+
+<img width="1074" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/90bcf5ea-f448-46f3-a273-9ffc81e684bc">
+
+<img width="1076" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/f56d90cd-a5c7-4b72-a5ae-e8a374ee19a8">
+
+<img width="1077" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/f249e04f-c3a4-4a86-bfa2-c5c04c7be0c6">
+
+<img width="1079" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/303bc646-8f43-4538-a382-0a733eaf43df">
+
+<img width="1065" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/ae54a404-bd61-4eba-9266-27fa9388105d">
+
+<img width="1074" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/492510e5-3187-4ad3-97de-cfaf00aaf6bf">
