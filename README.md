@@ -43,3 +43,29 @@ This is a repository for ChatGPT Prompt Engineering's studies.
 <img width="1074" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/492510e5-3187-4ad3-97de-cfaf00aaf6bf">
 
 <img width="1079" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/f408145e-2e0d-4990-bf73-72ef05ae142b">
+
+# Iterative
+
+--- 
+
+<img width="1084" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/a52c914e-c50b-4aff-83db-bd0831927d1b">
+
+<img width="1075" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/48658064-4a6c-47b2-9d13-ab5853701062">
+
+<img width="1082" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/2cb91d6a-ecf4-49ee-ad7b-1d7b3e210210">
+
+<img width="1077" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/aa74aba1-c5be-4a09-a435-0d1a75306e82">
+
+<img width="1088" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/85fc6dad-4aec-4017-9b2f-541cf7160951">
+
+<img width="1080" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/8e5af9a5-e62c-4e1b-be41-011bee9d1e4f">
+
+<img width="1077" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/f63d6f2e-a680-4bae-837c-aecee9ac4762">
+
+<img width="1082" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/3576a594-70e0-469a-82da-686ecbf0dce1">
+
+<img width="1082" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/0357798a-f737-49e9-b0d3-83c0d89bbedf">
+
+<img width="1077" alt="image" src="https://github.com/lucasquemelli/chatgpt_prompt_engineering/assets/81119854/afa5073b-4588-446b-8274-ee2d98cbd1b8">
+
+
